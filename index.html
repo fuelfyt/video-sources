@@ -84,6 +84,15 @@
             <img src="assets/fuel2.png" alt="Channel Logo" class="logo">
         </a>
         <h1>Sources & References</h1>
+        <input type="text" id="search" placeholder="Search videos..." style="width:100%; padding:0.75rem; margin:1rem 0; border-radius:6px; border:1px solid #444;">
+<script>
+document.getElementById('search').addEventListener('input', function(e) {
+    document.querySelectorAll('.video-card').forEach(card => {
+        card.style.display = card.textContent.toLowerCase().includes(e.target.value.toLowerCase()) ? 'block' : 'none';
+    });
+});
+</script>
+
         <p>Full citations for my videos</p>
     </header>
 
