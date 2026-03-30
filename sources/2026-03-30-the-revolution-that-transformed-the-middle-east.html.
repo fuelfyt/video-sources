@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sources – The Revolution that Transformed the Middle East</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css">
+    <style>
+        body { max-width: 900px; margin: 0 auto; padding: 2rem; }
+        header { text-align: center; margin-bottom: 3rem; border-bottom: 1px solid #444; padding-bottom: 2rem; }
+        .logo { max-height: 80px; }
+        .back-link { display: inline-block; background: #0066cc; color: white; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 6px; margin-bottom: 2rem; }
+        .back-link:hover { background: #0052a3; }
+        .source-section { margin-bottom: 3rem; }
+        .source-section h2 { color: #fff; border-bottom: 2px solid #0066cc; padding-bottom: 0.5rem; }
+        .source-item { background: #1a1a1a; padding: 1.25rem; margin-bottom: 1rem; border-radius: 8px; border-left: 4px solid #0066cc; }
+        .source-item a { color: #4da6ff; text-decoration: none; }
+        .source-item a:hover { text-decoration: underline; }
+        .citation { font-weight: 600; color: #ccc; }
+        .video-count { background: #0066cc; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.85rem; }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="../index.html">
+            <img src="../assets/logo.png" alt="Channel Logo" class="logo">
+        </a>
+        <h1>Sources – The Revolution that Transformed the Middle East</h1>
+    </header>
+
+    <a href="../index.html" class="back-link">← Back to Videos</a>
+
+    <div class="source-section">
+        <h2>📚 References <span class="video-count">6 sources</span></h2>
+        <div class="source-item">
+            <span class="citation">[1]</span> Afary, J. (2026, March 17). <em>Iranian Revolution (1979) | Summary, Causes, Effects, Islamic Republic, Ayatollah, & Facts</em>. Britannica.<br>
+            <a href="https://www.britannica.com/event/Iranian-Revolution">britannica.com/event/Iranian-Revolution</a>
+        </div>
+        <div class="source-item">
+            <span class="citation">[2]</span> Zunes, S. (2009, April). <em>The Iranian Revolution (1977-1979)</em>. International Center on Nonviolent Conflict.<br>
+            <a href="https://www.nonviolent-conflict.org/iranian-revolution-1977-1979/">nonviolent-conflict.org/iranian-revolution-1977-1979</a>
+        </div>
+        <div class="source-item">
+            <span class="citation">[3]</span> Ansari, A. (1999, August 23). <em>Iranian Revolution of 1979</em>. Stanford University.<br>
+            <a href="https://web.stanford.edu/class/e297c/trade_environment/wheeling/hiran.html">web.stanford.edu/class/e297c/.../hiran.html</a>
+        </div>
+        <div class="source-item">
+            <span class="citation">[4]</span> Dunn, J. P. (2023). <em>Iranian Revolution | History | Research Starters</em>. EBSCO.<br>
+            <a href="https://www.ebsco.com/research-starters/history/iranian-revolution">ebsco.com/research-starters/history/iranian-revolution</a>
+        </div>
+        <div class="source-item">
+            <span class="citation">[5]</span> Wikipedia contributors. (2026, March 24). <em>Iranian Revolution</em>. Wikipedia.<br>
+            <a href="https://en.wikipedia.org/wiki/Iranian_Revolution">en.wikipedia.org/wiki/Iranian_Revolution</a>
+        </div>
+        <div class="source-item">
+            <span class="citation">[6]</span> Katouzian, H. (2009, January 29). <em>The Iranian Revolution of February 1979</em>. Middle East Institute.<br>
+            <a href="https://mei.edu/publication/iranian-revolution-february-1979">mei.edu/publication/iranian-revolution-february-1979</a>
+        </div>
+    </div>
+
+    <div class="source-section">
+        <h2>🎬 Video References <span class="video-count">3 sources</span></h2>
+        <div class="source-item">
+            Bahram Irandoost. (2017, January 15). <em>شادی مردم پس از پیروزی انقلاب</em> [Video]. YouTube.<br>
+            <a href="https://www.youtube.com/watch?v=HZnpTI8jqcY">youtube.com/watch?v=HZnpTI8jqcY</a>
+        </div>
+        <div class="source-item">
+            ABC News. (2015, March 12). <em>OLD NEWS: The Iranian Revolution</em> [Video]. YouTube.<br>
+            <a href="https://www.youtube.com/results?search_query=OLD+NEWS+The+Iranian+Revolution+ABC">youtube.com – OLD NEWS: The Iranian Revolution</a>
+        </div>
+        <div class="source-item">
+            Bahram Irandoost. (2017, January 15). <em>شادی مردم عقل باخته پس از رفتن شاهنشاه</em> [Video]. YouTube.<br>
+            <a href="https://www.youtube.com/results?search_query=شادی+مردم+عقل+باخته+پس+از+رفتن+شاهنشاه">youtube.com – شادی مردم عقل‌باخته پس از رفتن شاهنشاه</a>
+        </div>
+    </div>
+
+    <div style="text-align: center; margin-top: 3rem; color: #888;">
+        <p><strong>Total: 9 sources</strong> | Published 2026</p>
+        <a href="../index.html" class="back-link">← Back to all videos</a>
+    </div>
+</body>
+</html>
